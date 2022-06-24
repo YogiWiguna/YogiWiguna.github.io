@@ -1055,7 +1055,7 @@ img {
   }
 
   .services_container {
-    grid-template-columns: max-content;
+    grid-template-columns: repeat(1, 218px);
     justify-content: center;
   }
   .services_content {
